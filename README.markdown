@@ -11,8 +11,6 @@ Miller Browse is a JavaScript plugin that allows you to build a
 [Miller Columns](http://en.wikipedia.org/wiki/Miller_columns)-based navigation. It 
 supports both statically- & dynamically-generated data. It's OK.
 
-To use, make sure you in
-
 Current Version 
 ---------------
 
@@ -42,4 +40,4 @@ View source to examine how the example functionality is defined.
 Documentation
 -------------
 
-Pending.
+Pending. For now, please see the example above and the documentation in `src/browser.js`
