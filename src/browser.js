@@ -1,6 +1,6 @@
 /**
  * @description Column Browser
- * @author Andrew Holloway aholloway@untropy.net
+ * @author Andrew Holloway booc0mtaco@gmail.com
  * @date 2009-11-24 (revised 2011-03-14)
  * @version 1.2.0
  * @requires prototype.js Uses several objects and extensions provided by Prototype.
